@@ -7,3 +7,6 @@ This app is free for everyone and it was created as an **'open-source project'**
 
 This is the Guitar Raag app's repository which holds the Flutter Code, although the code is messy.
 # Guitar-Raag-Flutter
+
+Note:
+Kindly rename the file asset, to assets..!
