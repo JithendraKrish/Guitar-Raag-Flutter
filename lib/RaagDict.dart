@@ -1,0 +1,88 @@
+Map RaagaLib={
+
+  'Kanakaangi':         [true, true, false, false, true, false, false, true, false, true, true, false, false, true, false, false, true],
+  'Rathnaangi':         [true, true, false, false, true, false, false, true, false, true, true, false, false, false, true, false, true],
+  'GaanaMurthi':        [true, true, false, false, true, false, false, true, false, true, true, false, false, false, false, true, true],
+  'VanasPathi':         [true, true, false, false, true, false, false, true, false, true, false, true, false, false, true, false, true],
+  'ManaVathi':          [true, true, false, false, true, false, false, true, false, true, false, true, false, false, false, true, true],
+  'DanaRupi':           [true, true, false, false, true, false, false, true, false, true, false, false, true, false, false, true, true],
+
+  'Senavathi':          [true, true, false, false, false, true, false, true, false, true, true, false, false, true, false, false, true],
+  'HanumanThodi':       [true, true, false, false, false, true, false, true, false, true, true, false, false, false, true, false, true],
+  'Denuka':             [true, true, false, false, false, true, false, true, false, true, true, false, false, false, false, true, true],
+  'Natakapriya':        [true, true, false, false, false, true, false, true, false, true, false, true, false, false, true, false, true],
+  'KokilaPriya':        [true, true, false, false, false, true, false, true, false, true, false, true, false, false, false, true, true],
+  'Rupavathi':          [true, true, false, false, false, true, false, true, false, true, false, false, true, false, false, true, true],
+
+  'GavakaPriya':        [true, true, false, false, false, false, true, true, false, true, true, false, false, true, false, false, true],
+  'Vagulabharanam':      [true, true, false, false, false, false, true, true, false, true, true, false, false, false, true, false, true],
+  'MayaMalavaGowla':    [true, true, false, false, false, false, true, true, false, true, true, false, false, false, false, true, true],
+  'Chakravaham':        [true, true, false, false, false, false, true, true, false, true, false, true, false, false, true, false, true],
+  'Suryakantham':       [true, true, false, false, false, false, true, true, false, true, false, true, false, false, false, true, true],
+  'HataKambri':         [true, true, false, false, false, false, true, true, false, true, false, false, true, false, false, true, true],
+
+  'Janakardhwani':      [true, false, true, false, false, true, false, true, false, true, true, false, false, true, false, false, true],
+  'NataBhairavi':       [true, false, true, false, false, true, false, true, false, true, true, false, false, false, true, false, true],
+  'Keeravani':          [true, false, true, false, false, true, false, true, false, true, true, false, false, false, false, true, true],
+  'karaharPriya':       [true, false, true, false, false, true, false, true, false, true, false, true, false, false, true, false, true],
+  'GowriManohari':      [true, false, true, false, false, true, false, true, false, true, false, true, false, false, false, true, true],
+  'Varunapriya':        [true, false, true, false, false, true, false, true, false, true, false, false, true, false, false, true, true],
+
+  'MaraRanjani':        [true, false, true, false, false, false, true, true, false, true, true, false, false, true, false, false, true],
+  'Charukesi':          [true, false, true, false, false, false, true, true, false, true, true, false, false, false, true, false, true],
+  'Sarasangi':          [true, false, true, false, false, false, true, true, false, true, true, false, false, false, false, true, true],
+  'Harikambodi':        [true, false, true, false, false, false, true, true, false, true, false, true, false, false, true, false, true],
+  'DiraSankarabharanam':[true, false, true, false, false, false, true, true, false, true, false, true, false, false, false, true, true],
+  'NaagaNandini':       [true, false, true, false, false, false, true, true, false, true, false, false, true, false, false, true, true],
+
+  'YagaPriya':          [true, false, false, true, false, false, true, true, false, true, true, false, false, true, false, false, true],
+  'Ragavardini':        [true, false, false, true, false, false, true, true, false, true, true, false, false, false, true, false, true],
+  'GangeyaBushani':     [true, false, false, true, false, false, true, true, false, true, true, false, false, false, false, true, true],
+  'Vagadishyari':       [true, false, false, true, false, false, true, true, false, true, false, true, false, false, true, false, true],
+  'Sulini':             [true, false, false, true, false, false, true, true, false, true, false, true, false, false, false, true, true],
+  'Chalanatai':         [true, false, false, true, false, false, true, true, false, true, false, false, true, false, false, true, true],
+
+  'Salakam':            [true, true, false, false, true, false, false, false, true, true, true, false, false, true, false, false, true],
+  'Jalaarnavam':        [true, true, false, false, true, false, false, false, true, true, true, false, false, false, true, false, true],
+  'Jaalavarali':        [true, true, false, false, true, false, false, false, true, true, true, false, false, false, false, true, true],
+  'Navaneetham':        [true, true, false, false, true, false, false, false, true, true, false, true, false, false, true, false, true],
+  'Paavani':            [true, true, false, false, true, false, false, false, true, true, false, true, false, false, false, true, true],
+  'RaguPriya':          [true, true, false, false, true, false, false, false, true, true, false, false, true, false, false, true, true],
+
+  'Kavambodhi':         [true, true, false, false, false, true, false, false, true, true, true, false, false, true, false, false, true],
+  'BahavPriya':         [true, true, false, false, false, true, false, false, true, true, true, false, false, false, true, false, true],
+  'SubhaPanthuvarali':  [true, true, false, false, false, true, false, false, true, true, true, false, false, false, false, true, true],
+  'Shadvidamargini':    [true, true, false, false, false, true, false, false, true, true, false, true, false, false, true, false, true],
+  'Swaranangi':         [true, true, false, false, false, true, false, false, true, true, false, true, false, false, false, true, true],
+  'DivyaMani':          [true, true, false, false, false, true, false, false, true, true, false, false, true, false, false, true, true],
+
+  'Davalambri':         [true, true, false, false, false, false, true, false, true, true, true, false, false, true, false, false, true],
+  'Namanarayani':       [true, true, false, false, false, false, true, false, true, true, true, false, false, false, true, false, true],
+  'Kaamavardini':       [true, true, false, false, false, false, true, false, true, true, true, false, false, false, false, true, true],
+  'RaamamPriya':        [true, true, false, false, false, false, true, false, true, true, false, true, false, false, true, false, true],
+  'Gamanasrama':        [true, true, false, false, false, false, true, false, true, true, false, true, false, false, false, true, true],
+  'Visvambri':          [true, true, false, false, false, false, true, false, true, true, false, false, true, false, false, true, true],
+
+  'Syamlangi':          [true, false, true, false, false, true, false, false, true, true, true, false, false, true, false, false, true],
+  'ShanmugaPriya':      [true, false, true, false, false, true, false, false, true, true, true, false, false, false, true, false, true],
+  'SimhendraMadyamam':  [true, false, true, false, false, true, false, false, true, true, true, false, false, false, false, true, true],
+  'Hemavathi':          [true, false, true, false, false, true, false, false, true, true, false, true, false, false, true, false, true],
+  'Dharmavathi':        [true, false, true, false, false, true, false, false, true, true, false, true, false, false, false, true, true],
+  'Needimathi':         [true, false, true, false, false, true, false, false, true, true, false, false, true, false, false, true, true],
+
+  'Kanthamani':         [true, false, true, false, false, false, true, false, true, true, true, false, false, true, false, false, true],
+  'RishabaPriya':       [true, false, true, false, false, false, true, false, true, true, true, false, false, false, true, false, true],
+  'Lathangi':           [true, false, true, false, false, false, true, false, true, true, true, false, false, false, false, true, true],
+  'Vachaspathi':        [true, false, true, false, false, false, true, false, true, true, false, true, false, false, true, false, true],
+  'MechaKalyani':       [true, false, true, false, false, false, true, false, true, true, false, true, false, false, false, true, true],
+  'Chitrambari':        [true, false, true, false, false, false, true, false, true, true, false, false, true, false, false, true, true],
+
+  'Sucharitra':         [true, false, false, true, false, false, true, false, true, true, true, false, false, true, false, false, true],
+  'Jyothisvarupini':    [true, false, false, true, false, false, true, false, true, true, true, false, false, false, true, false, true],
+  'Dathuvardini':       [true, false, false, true, false, false, true, false, true, true, true, false, false, false, false, true, true],
+  'Naasikabushani':     [true, false, false, true, false, false, true, false, true, true, false, true, false, false, true, false, true],
+  'Kosalam':            [true, false, false, true, false, false, true, false, true, true, false, true, false, false, false, true, true],
+  'RasikaPriya':        [true, false, false, true, false, false, true, false, true, true, false, false, true, false, false, true, true],
+
+};
+
